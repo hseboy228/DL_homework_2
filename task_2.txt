@@ -1,5 +1,5 @@
-81 
 \b(O|o)[A-Za-z0-9_\-\.]+@[\w.\-]+\.[a-z]{2,6}
+81 
 outlook.team@enron.com
 olinger@enron.com
 outlook.team@enron.com
